@@ -4,6 +4,7 @@
 - HeadlessUI
 
 ### Features: 
+- Completely responsive UI
 - Search by card name
 - Apply filters over card types
 - Infinite scroll with paginated response
