@@ -119,7 +119,7 @@ const CardSection = ({ mocked, hasMore, getMore, filter, type }) => {
                 </div>
                 <div className="pt-3 flex justify-between items-center">
                   <div className="flex items-center space-x-2">
-                    <div className="bg-green-500 h-3 w-3 rounded-full"></div>
+                    <div className="bg-[#499359] h-3 w-3 rounded-full"></div>
                     <p>Availabe to spent</p>
                   </div>
                   <p>
